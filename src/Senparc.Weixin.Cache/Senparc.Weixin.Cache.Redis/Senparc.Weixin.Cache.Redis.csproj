@@ -78,12 +78,6 @@
     <Compile Include="StackExchange.Redis\StackExchangeRedisExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Senparc.Weixin\Senparc.Weixin\Senparc.Weixin.csproj">
-      <Project>{814092cd-9cd0-4fb7-91e8-d147f476f1fb}</Project>
-      <Name>Senparc.Weixin</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
